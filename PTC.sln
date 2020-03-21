@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTC", "PTC\PTC.csproj", "{CA7E3C44-287C-46AC-BE76-CAAA87EA0BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTCData", "PTCData\PTCData.csproj", "{9C5F332B-D108-4C29-A900-140A94078CD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7E3C44-287C-46AC-BE76-CAAA87EA0BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7E3C44-287C-46AC-BE76-CAAA87EA0BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7E3C44-287C-46AC-BE76-CAAA87EA0BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7E3C44-287C-46AC-BE76-CAAA87EA0BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5F332B-D108-4C29-A900-140A94078CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5F332B-D108-4C29-A900-140A94078CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5F332B-D108-4C29-A900-140A94078CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5F332B-D108-4C29-A900-140A94078CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541985EB-33E4-404D-9C53-76DCBC4C65A2}
+	EndGlobalSection
+EndGlobal
